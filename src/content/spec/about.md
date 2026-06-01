@@ -1,5 +1,4 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
 Hi, I am a third-year cybersecurity student at Howest. I am passionate about everything related to security, from vulnerabilities and exploits to defence strategies and risk management.
 
