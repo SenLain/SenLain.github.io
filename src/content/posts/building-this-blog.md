@@ -1,9 +1,9 @@
 ---
 title: Building This Blog
-published: 2026-02-13
-description: ''
+published: 2026-03-08
+description: 'In this post I will describe my journey of building this blog site'
 image: ''
-tags: []
+tags: [Blog]
 category: 'Blog'
 draft: false 
 ---
@@ -16,7 +16,7 @@ This is the first post on my new blog, written as my university assignment. I wa
 
 I looked at Combell's web hosting options first. They offer WordPress hosting and Linux-based web hosting. However, I don't have much experience with WordPress, and managing a Linux server with all its setup requirements felt like too much work for just a simple project. I wanted something else.
 
-## Finding the Right Framework
+## Finding the Right Technology
 
 I needed to build a static site, I wanted something modern, fast and not too complicated. That is when I discovered Astro.
 
