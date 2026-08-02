@@ -1,6 +1,6 @@
 ---
 title: HTB Cyber Apocalypse CTF 2026 - My First Serious CTF
-published: 2026-07-29
+published: 2026-08-02
 description: 'My Hack The Box Cyber Apocalypse 2026 CTF experience'
 image: './HTB CTF.jpg'
 tags: [CTF, Hack The Box, HTB, Hackathon]
