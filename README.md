@@ -8,8 +8,8 @@ A static blog template built with [Astro](https://astro.build).
 
 [**🖥️ Live Demo (Vercel)**](https://fuwari.vercel.app)
 
-![Preview Image](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png)
-
+<!-- ![Preview Image](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png)
+-->
 🌏 README in
 [**中文**](https://github.com/saicaca/fuwari/blob/main/docs/README.zh-CN.md) /
 [**日本語**](https://github.com/saicaca/fuwari/blob/main/docs/README.ja.md) /
