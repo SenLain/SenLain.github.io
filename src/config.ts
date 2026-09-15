@@ -55,7 +55,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/ja.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Szymon Grzesko",
-	bio: "Last year Cybersecurity Student | Pentester",
+	bio: "Cybersecurity graduate with hands-on experience in offensive security. Experienced with web and network penetration testing, Active Directory, Windows/Linux environments and EDR/XDR. Currently developing my skills through hands-on labs while preparing for the HTB CPTS certification.",
 	links: [
 		{
 			name: "Twitter",
